@@ -26,7 +26,7 @@ namespace SalesWebMvc.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Department");
-                });
+                }); 
 #pragma warning restore 612, 618
         }
     }
