@@ -15,6 +15,8 @@ using Microsoft.EntityFrameworkCore;
 using SalesWebMvc.Models;
 using SalesWebMvc.Data;
 using SalesWebMvc.Services;
+using System.Globalization;
+using Microsoft.AspNetCore.Localization;
 
 namespace SalesWebMvc
 {
